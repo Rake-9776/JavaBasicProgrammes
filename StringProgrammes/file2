@@ -1,0 +1,51 @@
+1. change case
+3. palidrome String
+6. Sum of String Number
+7. Split and Reverse Sentence
+8. Permutation
+9. Palidrome using Substring
+12. Encryption of String 
+==========================================
+1. Reversing a String   -
+2. Check String is palidrome or not   -
+3. print heighest posibility palidrome  
+4. Count number of vowels in a given string  -
+5. Remove duplicate elements in a String / remove duplicate character / Remove Conjugative character
+8. Remove duplicate words in a string -
+6. Count Number of character in a String  -
+7. Count occurance of each Character  
+9. input = [1,2,1]  output= [1,2,1,1,2,1] 
+10.input = [1,2,1]  output= [1,3,4]
+11.input = Goodmorsing output = yes(contains number)
+   input = Goodmorning output = no
+12. input = "yybbBByyyy" output = 4
+13. Exist Of character (aabbcc - a2b2c2) input = "aabbbccccc" output= o2b3c5 -
+14. input = 2^2 = 4 output = T/F
+    input = 2^3 = 8 output = T/F
+15. Swapping Last two character 
+    input = ababcd   output = ababdc
+16. Swap Two String without using third variable
+      input =  String a = "ram"    output = String a = "sita"
+      input =  String a = "sita"    output = String a = "ram"
+17. Mostly repeated word in a String
+18. Add two numbers without using Arithmetic Operator
+19. reverse Each word in a String -
+20. print Consonents in a String -
+21. Replace without replace()  
+       Helloworld     =    Hxxxworld  
+22. check the string ios Anagram or not  
+23. check the String is panagram or not 
+24. Swapping last two characters
+           i/p = ababed   o/p = ababde
+25. Reverse a word in a string 
+26. wap to elements the Consigative character in given String
+27. str1 = "10:00Am"; 
+    str2 = "11:00Am";
+28. wap to print next vowel
+29. Alphabetical Order Ex: input = "apple" -> output = "aelpp".
+30. count a letter in word without using any inbuilts. 
+31. Programme to remove spaces in a String. -
+32. Reversing words Ex: input = "abc def" output = "cba fed". 
+33. Check the given String is balanced or not 
+34. welcome to java programming  find small word - to ,big word - programming
+35. Reove conjugative character from a String i/o = "successc" - o/p = suces
