@@ -1,18 +1,37 @@
-package datastructureimpl;
+package collection;
 
-import java.io.File;
-import java.io.FileWriter;
-import java.io.IOException;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.InputMismatchException;
+import java.util.Map;
+import java.util.Map.Entry;
+import java.util.Scanner;
 
-public class Demo extends Thread {
-	//1. OOPS
-	//1. Arithmetic, NullPointer, NumberFormat, CalssCast, ArrayIndexNotFound,
-	//2. Class NotFound, File NotFound, SQlException, Interpretted, 
-	//3. pattern Matching
-	//4. String, Array, Java8
+public class Demo  {
+
+
+	public static <E> void main(String[] args) {
+         
+		ArrayList<Integer> al = new ArrayList<Integer>();
+		al.add(12);
+		al.add(23);
+		al.add(23);
+		al.add(23);
+		
+		HashSet<String> set = new HashSet<String>();
+		set.add("rakesh");set.add("ritesh");
+		HashMap< ArrayList<Integer>,HashSet<String>> hm = new HashMap< ArrayList<Integer>,HashSet<String>> ();
+	    
+		hm.put(al.,set);
+		
+		for(Entry<HashSet<String>, ArrayList<Integer>> s: hm.entrySet())
+		{
+			System.out.println(s.getKey()+" "+s.getValue());
+		}
+		
+		hm.forEach((e1,e2)->System.out.println(e1+" "+e2));
 	
-	public static void main(String[] args) {
-		 
+	
 	}
-	
 }

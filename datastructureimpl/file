@@ -1,0 +1,19 @@
+methods of collection framework
+--------------------------------
+
+Iterator()-
+   - hasNext() method use for current element is available or not
+    1. hasNext() -- if we check that elements are present or not
+    2. next()  --if we want totake that element we use 
+    3. remove()
+    
+ListIterator()- 
+   - 1. hasNext()
+     2. next()
+     3. previous()
+     4. hasPrevious()
+     5. remove()
+     6. add()
+     7. set()
+     8. nextIndex()
+     9. previousIndex()
